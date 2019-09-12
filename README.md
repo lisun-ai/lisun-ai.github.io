@@ -4,7 +4,8 @@ Greetings! My name is Li Sun, coming from Hubei, China. I got my undergraduate d
 
 ### Blogs
 
-Talk summary: Deep Learning over Heterogeneous Data: a challenge, a solution, and an application to Poly(A) signal prediction
+#### Sep 12, 2019
+#### Talk summary: Deep Learning over Heterogeneous Data: a challenge, a solution, and an application to Poly(A) signal prediction
 
 This is a summary of talk given by Haohan Wang, who is a PhD candidate at Carnegie Mellon University. In this talk, the speaker first gave a brief introduction about convolutional neural network (CNN) and it's application in computer vision. Inspired by the biological structure of visual cortex, CNNs are artificial neural networks with multiple hidden convolutional layers between the input and output layers. They have been used extensively in many computer vision tasks. They have non-linear property and are capable of modeling complex functions.
 
